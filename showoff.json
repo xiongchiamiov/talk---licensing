@@ -1,0 +1,11 @@
+{
+	"name": "Licensing",
+	"sections": [
+		{"section":"01-intro"},
+		{"section":"02-permissive"},
+		{"section":"03-copyleft"},
+		{"section":"04-other-licenses"},
+		{"section":"05-other-concerns"},
+		{"section":"06-questions"}
+	]
+}
