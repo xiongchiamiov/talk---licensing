@@ -2,7 +2,7 @@
 # Open Source Licensing #
 ## James Pearson ##
 ### aka xiong_chiamiov ###
-### http://changedmy.name ###
+### http://changedmy.name/talk---licensing/ ###
 
 !SLIDE
 # Table of Contents #
