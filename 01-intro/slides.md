@@ -4,16 +4,29 @@
 ### aka xiong_chiamiov ###
 ### http://changedmy.name ###
 
-!SLIDE bullets incremental
-* Intro
-* Permissive (Open Source)
-* Copyleft (Free Software)
-* Other Licenses
-* Questions
+!SLIDE
+# Table of Contents #
+## Intro
+## Permissive
+## Copyleft
+## Other Licenses
 
 !SLIDE bullets incremental
 # Caveats #
-
 * IANAL
-* Bias towards open source
+* I'm Biased
+
+!SLIDE
+# Free Software?  Open Source?
+
+!SLIDE
+# Open Source Initiative #
+## http://opensource.org/docs/osd ##
+
+!SLIDE
+# Free Software Foundation #
+## http://fsf.org/philosophy/free-sw.html ##
+
+!SLIDE center
+![wikipedia licensing infobox](wikipedia.png)
 
